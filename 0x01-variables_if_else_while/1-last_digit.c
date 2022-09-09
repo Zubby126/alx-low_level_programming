@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *
  * main - principal function
+ *
  * Return: end the program
  */
 int main(void)
